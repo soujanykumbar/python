@@ -1,0 +1,8 @@
+d=int(input("Enter the number"))
+b=bin(d)
+o=oct(d)
+h=hex(d)
+print("The decimal value is",d)
+print("The binary value is",d)
+print("The octal value is",d)
+print("The hexadecimal value is",d)
